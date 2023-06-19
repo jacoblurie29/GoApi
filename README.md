@@ -1,10 +1,14 @@
 ## Golang API
 
-The following api is a learning attempt of making a REST api with Golang
+The following api was used while learning to make a REST api with Golang
 
 ### To run:
 
 In terminal:
-``` cd goapi ```
+```sh
+cd goapi
+```
 
-```go run main.go ```
+```sh
+go run main.go
+```
